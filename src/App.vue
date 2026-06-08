@@ -370,7 +370,7 @@ onMounted(() => { loadDiscounts(); });
 :deep(.search-input .v-field__outline) { border-color: #cbd5e1 !important; }
 .height-compact-btn { height: 40px !important; }
 .lh-tight { line-height: 1.2 !important; }
-.mt-0.5 { margin-top: 2px !important; }
+.mt-1 { margin-top: 2px !important; }
 .illustration-container { display: flex; justify-content: center; align-items: center; width: 100%; }
 .coupon-bg-oval { width: 260px; height: 140px; background-color: #ff6b81; border-radius: 50%; display: flex; align-items: center; justify-content: center; position: relative; gap: 2px; }
 .coupon-half { width: 85px; height: 65px; background-color: #ffca28; display: flex; align-items: center; justify-content: center; position: relative; }
